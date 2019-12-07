@@ -1,3 +1,4 @@
+# get footprinting from PCAP
 #!/bin/bash
 
 rm -rf /SEC/private* /SEC/public*
